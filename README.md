@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, i'm Diego👋
+
+<div>
+  <a href="https://github.com/dihgo01/dihgo01">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dihgo01&hide=stars,issues&show_icons=true&theme=cobalt&inlude_all_commits=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=dihgo01&layout=compact&langs_count=16&show_icons=true&theme=cobalt"/>
+</div>
+
 
 <!--
 **dihgo01/dihgo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
