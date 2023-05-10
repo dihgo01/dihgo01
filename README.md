@@ -1,4 +1,8 @@
 ### Hi, i'm Diego👋
+
+Software Developer | Passionate about Innovation and Technology
+
+Hello! My name is Diego I'm a software developer, lately focused on web development passionate about exploring and using new technologies to create products and solutions that enrich our world. Since 2019, I've been making my way in software development. Currently working as a FullStack Developer using the most used technologies in the market.
 <!--
 **dihgo01/dihgo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
